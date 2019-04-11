@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/model/BookstoreModel.java=UTF-8
+encoding//src/model/BookstoreModelService.java=UTF-8
+encoding//src/model/BookstoreModelServiceLocator.java=UTF-8
+encoding//src/model/BookstoreModelSoapBindingStub.java=UTF-8
